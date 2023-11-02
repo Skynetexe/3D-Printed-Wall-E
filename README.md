@@ -1,44 +1,43 @@
-
 # 3D-Printed-Wall-e
 
 --**This page is still in development**--
 
 **THE** page for the Wall-e project! I made it because our group will not be in ACT for all eternity, and it is nice to collaborate.
-Below, I will go into as much detail as possible to help whoever might be interested in continuing work in the future, and if you are reading this, that is likely you, so... thank you :)!
+Below, I will go into as much detail as possible to help whoever might be interested in continuing work in the future, and if you are reading this, that is likely you, so... thank you!
 This is essentially the first thing I am doing with GitHub, so pardon the occasional (or constant) sloppiness.
 
-# Operation
+## Operation
 
 Tap your phone on the NFC leaf and go to the website that controls the (not so) lil dud. Scan the QR code on the inside to get to this page (but that's most likely what you already did) and start digging around.
 
-# Programing
+## Programing
 
 Latest [Arduino IDE](https://www.arduino.cc/en/software)
 
-# List of Parts
+## List of Parts
 
 A lot of these parts are what we had available in the lab, they may not be the highest performing and most capable of implementing new fancy features, but here's to hoping they will hold up and that tougher tasks can be offloaded.
 
 ### Electronics
 
 - **Raspberry Pi**
-  - *The better the pi, the better the brains (duh). What we have: [Raspberry Pi 2 Model B](https://www.raspberrypi.com/products/raspberry-pi-2-model-b/)*
+  - _The better the pi, the better the brains (duh). What we have: [Raspberry Pi 2 Model B](https://www.raspberrypi.com/products/raspberry-pi-2-model-b/)_
 - **Arduino Uno**
-  - *Cheap, has WiFi. Model: [MCU-ATmega328P WiFi-ESP8266+8Mb flash USB-TTL CH340G](https://medium.com/@oviraj71/uno-wifi-r3-atmega328p-esp8266-8mb-flash-usb-ttl-ch340g-micro-usb-d029614e803f)*
+  - _Cheap, has WiFi. Model: [MCU-ATmega328P WiFi-ESP8266+8Mb flash USB-TTL CH340G](https://medium.com/@oviraj71/uno-wifi-r3-atmega328p-esp8266-8mb-flash-usb-ttl-ch340g-micro-usb-d029614e803f)_
 - **12V DC Geared Motor** x 2
-  - *Salvaged from Tetrix kit, Model: 739083 DC Drive Motor() - FIND THE MOTOR, MAY NEED TO DISASSEMBLE*
+  - _Salvaged from Tetrix kit, Model: 739083 DC Drive Motor() - FIND THE MOTOR, MAY NEED TO DISASSEMBLE_
 - **Motor shield**
-  - *Bought, Model: []()*
+  - _Bought, Model: []()_
 - **9g Servo motor** x 9
-  - *Bought, Model: []()*
+  - _Bought, Model: []()_
 - **Servo controller**
-  - *Bought, Model: [PCA9685 16-channel 12-bit PWM driver](https://grobotronics.com/16-channel-12-bit-pwm-servo-driver-pca9685.html?sl=en)*
+  - _Bought, Model: [PCA9685 16-channel 12-bit PWM driver](https://grobotronics.com/16-channel-12-bit-pwm-servo-driver-pca9685.html?sl=en)_
 - **12V DC Battery Pack**
-  - *Salvaged from Tetrix kit, Model: [739057 12v Rechargeable Battery Pack](https://www.pitsco.com/TETRIX-12-Volt-Rechargeable-NiMH-Battery-Pack)*
+  - _Salvaged from Tetrix kit, Model: [739057 12v Rechargeable Battery Pack](https://www.pitsco.com/TETRIX-12-Volt-Rechargeable-NiMH-Battery-Pack)_
 - **12V to 5V DC Buck Converter**
-  - *Bought, Model: [HCW-P715](https://www.websrl.com/en/electronics/electronic-boards/12-24v-to-5v-5a-voltage-conversion-step-down-power-supply-module/)*
+  - _Bought, Model: [HCW-P715](https://www.websrl.com/en/electronics/electronic-boards/12-24v-to-5v-5a-voltage-conversion-step-down-power-supply-module/)_
 - **Speakers**
-  - *Cheapest we could find, Model: [Esperanza speakers 2.0 leggiero](https://esperanza.pl/listaProduktow.php?dbFin=EP111&szukaj=Szukaj&kat=0&idz=)*
+  - _Cheapest we could find, Model: [Esperanza speakers 2.0 leggiero](https://esperanza.pl/listaProduktow.php?dbFin=EP111&szukaj=Szukaj&kat=0&idz=)_
 
 ### Metal
 
@@ -49,11 +48,11 @@ A lot of these parts are what we had available in the lab, they may not be the h
 
 ### Paint
 
-# Potential upgrades
+## Potential upgrades
 
-A new battery... PLEASE! The one we have is a *CHUNKY* **HEAVY** boi, and it is only 3000mAh, and is (~undisclosed~) old
+A new battery... PLEASE! The one we have is a _CHUNKY_ **HEAVY** boi, and it is only 3000mAh, and is (~undisclosed~) old
 
-# Links
+## Links
 
 This project is a modification of [chillibasket's project](https://wired.chillibasket.com/3d-printed-wall-e/)
 z
