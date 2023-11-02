@@ -15,5 +15,13 @@ Paint:
 This project is a modification of [chillibasket's project](https://wired.chillibasket.com/3d-printed-wall-e/)
 
 The following upgrades by other makers have been implemented:
-- [Wheel frame with bearings and a spring for track tensioning](https://www.thingiverse.com/thing:4832742)
+Functional:
+- [Wheel frame with bearings and spring for track tensioning](https://www.thingiverse.com/thing:4832742)
 - [Motor gear with hole for a grub screw](https://www.thingiverse.com/thing:4932959)
+- [Central head axle that uses linkages with screws instead of paperclips](https://www.thingiverse.com/thing:4707426)
+- [Modified head that has motorized eyebrows](https://www.thingiverse.com/thing:5420196)
+
+Aesthetic:
+- [Better looking hands](https://www.thingiverse.com/thing:5391045)
+- [Top plate with detailed buttons](https://www.thingiverse.com/thing:5223648)
+- [Integrated hook in the back plate (can be used to hang his little cooler on)](https://www.thingiverse.com/thing:4148244)
