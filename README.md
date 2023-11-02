@@ -61,6 +61,14 @@ If for whatever reason the links no longer work or you find websites that are be
 
 A new battery... PLEASE! The one we have is a _CHUNKY_ **HEAVY** boi, and it is only 3000mAh, and is (~~undisclosed~~) old
 
+Circuitry to detect how full the battery is
+
+Camera in the eye, tracks faces of people interacting with Wall-e.
+
+Xbox Kinect for mirroring the arms and head movement of people interacting with Wall-e.
+
+Longer cables for head servos, so that they can be cable managed through the neck
+
 ## Links
 
 This project is mostly a modification of [chillibasket's project](https://wired.chillibasket.com/3d-printed-wall-e/ "wired.chillibasket.com")
