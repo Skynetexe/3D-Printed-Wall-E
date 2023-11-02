@@ -14,7 +14,7 @@ Tap your phone on the NFC leaf and go to the website that controls the (not so) 
 Latest [Arduino IDE](https://www.arduino.cc/en/software)
 
 # List of Parts
-A lot of these parts are what we had available in the lab, they may not be the highest performing and most capable of implementing new fancy things, but here's to hoping they will hold up and that tougher tasks can be offloaded.
+A lot of these parts are what we had available in the lab, they may not be the highest performing and most capable of implementing new fancy features, but here's to hoping they will hold up and that tougher tasks can be offloaded.
 
 Electronics:
 - Raspberry Pi
