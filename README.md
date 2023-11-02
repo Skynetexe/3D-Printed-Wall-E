@@ -16,7 +16,13 @@ Latest [Arduino IDE](https://www.arduino.cc/en/software "arduino.cc/software")
 
 ## List of Parts
 
+Listed bellow are electronics metal parts and paints. I will detail them as much as possible and add links to where they can be bought or whatever other website might be more relevant. **Hovering** over the link will show you the **exact model** of the item so that you can do your own searching.
+
+> _Copying the models could prove difficult. I recommend an OCR extension or going to the README.md document and finding them in "quotation marks" after the links_.
+
 A lot of these parts are what we had available in the lab, they may not be the highest performing and most capable of implementing new fancy features, but here's to hoping they will hold up and that tougher tasks can be offloaded.
+
+If for whatever reason the links no longer work or you find websites which are better suited please open an issue report so that I can update them.
 
 ### Electronics
 
