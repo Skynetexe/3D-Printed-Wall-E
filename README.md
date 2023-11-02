@@ -31,11 +31,11 @@ If for whatever reason the links no longer work or you find websites which are b
 - **Arduino Uno**
   - _Cheap, has WiFi. Model: [MCU-ATmega328P WiFi-ESP8266+8Mb flash USB-TTL CH340G](https://medium.com/@oviraj71/uno-wifi-r3-atmega328p-esp8266-8mb-flash-usb-ttl-ch340g-micro-usb-d029614e803f "MCU-ATmega328P WiFi-ESP8266+8Mb flash USB-TTL CH340G")_
 - **12V DC Geared Motor** x 2
-  - _Salvaged from Tetrix kit, Model: 739083 DC Drive Motor() - FIND THE MOTOR, MAY NEED TO DISASSEMBLE_
+  - _Salvaged from Tetrix kit, couldn't find exact link for model: [Tetrix DC Gear Motor 12VDC 154rpm P/N 739023](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://asset.pitsco.com/sharedimages/resources/tetrix/152motor739530.pdf "Tetrix DC Gear Motor 12VDC 154rpm P/N 739023")_
 - **Motor shield**
   - _Bought, Model: [HW-130 motor control](https://lastminuteengineers.com/l293d-motor-driver-shield-arduino-tutorial/ "HW-130 motor control")_
 - **9g Servo motor** x 9
-  - _Bought, Model: []()_
+  - _Bought, Model: [Tower Pro Micro Servo 9g SG90](https://www.towerpro.com.tw/product/sg90-7/ "Tower Pro Micro Servo 9g SG90")_
 - **Servo controller**
   - _Bought, Model: [PCA9685 16-channel 12-bit PWM driver](https://grobotronics.com/16-channel-12-bit-pwm-servo-driver-pca9685.html?sl=en "PCA9685 16-channel 12-bit PWM driver")_
 - **12V DC Battery Pack**
