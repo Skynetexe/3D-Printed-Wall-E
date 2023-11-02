@@ -18,7 +18,7 @@ Latest [Arduino IDE](https://www.arduino.cc/en/software "arduino.cc/software")
 
 Listed bellow are electronics metal parts and paints. I will detail them as much as possible and add links to where they can be bought or whatever other website might be more relevant. **Hovering** over the link will show you the **exact model** of the item so that you can do your own searching.
 
-> _Copying the models could prove difficult. I recommend an OCR extension or going to the README.md document and finding them in "quotation marks" after the links_.
+> _Copying the models could prove difficult. I would recommend using OCR software or going to the README.md file and finding them in "quotation marks" after the links_.
 
 A lot of these parts are what we had available in the lab, they may not be the highest performing and most capable of implementing new fancy features, but here's to hoping they will hold up and that tougher tasks can be offloaded.
 
