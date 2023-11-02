@@ -60,9 +60,9 @@ A new battery... PLEASE! The one we have is a _CHUNKY_ **HEAVY** boi, and it is 
 
 ## Links
 
-This project is a modification of [chillibasket's project](https://wired.chillibasket.com/3d-printed-wall-e/ "wired.chillibasket.com")
-z
-The following upgrades by other makers have been implemented:
+This project is mostly a modification of [chillibasket's project](https://wired.chillibasket.com/3d-printed-wall-e/ "wired.chillibasket.com")
+
+The following upgrades by other makers have also been implemented:
 
 ### Functional
 
