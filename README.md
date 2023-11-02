@@ -16,13 +16,13 @@ Latest [Arduino IDE](https://www.arduino.cc/en/software "arduino.cc/software")
 
 ## List of Parts
 
-Listed bellow are electronics metal parts and paints. I will detail them as much as possible and add links to where they can be bought or whatever other website might be more relevant. **Hovering** over the link will show you the **exact model** of the item so that you can do your own searching.
+Listed below are electronics metal parts and paints. I will detail them as much as possible and add links to where they can be bought or whatever other website might be more relevant. **Hovering** over the link will show you the **exact model** of the item so that you can do your own searching.
 
 > _Copying the models could prove difficult. I would recommend using OCR software or going to the README.md file and finding them in "quotation marks" after the links_.
 
 A lot of these parts are what we had available in the lab, they may not be the highest performing and most capable of implementing new fancy features, but here's to hoping they will hold up and that tougher tasks can be offloaded.
 
-If for whatever reason the links no longer work or you find websites which are better suited please open an issue report so that I can update them.
+If for whatever reason the links no longer work or you find websites that are better suited please open an issue report so that I can update them.
 
 ### Electronics
 
@@ -31,7 +31,7 @@ If for whatever reason the links no longer work or you find websites which are b
 - **Arduino Uno**
   - _Cheap, has WiFi. Model: [MCU-ATmega328P WiFi-ESP8266+8Mb flash USB-TTL CH340G](https://medium.com/@oviraj71/uno-wifi-r3-atmega328p-esp8266-8mb-flash-usb-ttl-ch340g-micro-usb-d029614e803f "MCU-ATmega328P WiFi-ESP8266+8Mb flash USB-TTL CH340G")_
 - **12V DC Geared Motor** x 2
-  - _Salvaged from Tetrix kit, couldn't find exact link for model: [Tetrix DC Gear Motor 12VDC 154rpm P/N 739023](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://asset.pitsco.com/sharedimages/resources/tetrix/152motor739530.pdf "Tetrix DC Gear Motor 12VDC 154rpm P/N 739023")_
+  - _Salvaged from Tetrix kit, couldn't find exact link for model: [Tetrix DC Gear Motor 12VDC 154rpm P/N 739023](https://www.robot-advance.com/EN/art-tetrix-max-dc-motor-39530-1239.htm "Tetrix DC Gear Motor 12VDC 154rpm P/N 739023")_
 - **Motor shield**
   - _Bought, Model: [HW-130 motor control](https://lastminuteengineers.com/l293d-motor-driver-shield-arduino-tutorial/ "HW-130 motor control")_
 - **9g Servo motor** x 9
