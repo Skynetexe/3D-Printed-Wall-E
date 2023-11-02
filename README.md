@@ -28,6 +28,7 @@ Paint:
 This project is a modification of [chillibasket's project](https://wired.chillibasket.com/3d-printed-wall-e/)
 
 The following upgrades by other makers have been implemented:
+
 Functional:
 - [Wheel frame with bearings and spring for track tensioning](https://www.thingiverse.com/thing:4832742)
 - [Motor gear with hole for a grub screw](https://www.thingiverse.com/thing:4932959)
