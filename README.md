@@ -10,7 +10,7 @@ This is essentially the first thing I am doing with GitHub, so pardon the occasi
 
 Tap your phone on the NFC leaf and go to the website that controls the (not so) lil dud. Scan the QR code on the inside to get to this page (but that's most likely what you already did) and start digging around.
 
-## Programing
+## Programming
 
 Latest [Arduino IDE](https://www.arduino.cc/en/software "arduino.cc/software")
 
