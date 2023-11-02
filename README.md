@@ -22,13 +22,15 @@ Electronics:
 - Arduino Uno
   - Cheap, has wifi. Model: [MCU-ATmega328P WiFi-ESP8266+8Mb flash USB-TTL CH340G](https://medium.com/@oviraj71/uno-wifi-r3-atmega328p-esp8266-8mb-flash-usb-ttl-ch340g-micro-usb-d029614e803f)
 - 12V DC Geared Motor x 2
-  - Salvaged from Tetrix kit, Model: []()
+  - Salvaged from Tetrix kit, Model: 739083 DC Drive Motor() - FIND THE MOTOR, MAY NEED TO DISASSEMBLE
 - Motor shield
   - Bought, Model: []()
 - 9g Servo motor x 9
   - Bought, Model: []()
 - Servo controller
   - Bought, Model: [PCA9685 16-channel 12-bit PWM driver](https://grobotronics.com/16-channel-12-bit-pwm-servo-driver-pca9685.html?sl=en)
+- 12V DC Battery Pack
+  - Salvaged from Tetrix kit, Model: [739057 12v Rechargeable Battery Pack](https://www.pitsco.com/TETRIX-12-Volt-Rechargeable-NiMH-Battery-Pack)
 - 12V to 5V DC Buck Converter
   - Bought, Model: [HCW-P715](https://www.websrl.com/en/electronics/electronic-boards/12-24v-to-5v-5a-voltage-conversion-step-down-power-supply-module/)
 - Speakers
