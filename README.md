@@ -21,7 +21,7 @@ Electronics:
 - Motor shield
 - 9g Servo motor x 9
 - Servo controller
-- 5v buck converter (12v to 5v down-stepper)
+- 12V to 5V DC Buck Converter
 
 Misc:
 - M3 Nuts x 12/20 (will check later)
