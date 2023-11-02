@@ -13,6 +13,7 @@ Tap your phone on the NFC leaf and go to the website that controls the (not so) 
 ## Programming
 
 Latest [Arduino IDE](https://www.arduino.cc/en/software "arduino.cc/software")
+[Raspberry Pi Imager](https://www.raspberrypi.com/software/ "raspberrypi.com/software/")
 
 ## List of Parts
 
@@ -28,6 +29,8 @@ If for whatever reason the links no longer work or you find websites that are be
 
 - **Raspberry Pi**
   - _The better the pi, the better the brains (duh). What we have: [Raspberry Pi 2 Model B](https://www.raspberrypi.com/products/raspberry-pi-2-model-b/ "Raspberry Pi 2 Model B")_
+- **USB WiFi Module**
+  - Salvaged, Model: [Edimax N150 Wi-Fi Nano USB Adapter](https://www.edimax.com/edimax/merchandise/merchandise_detail/data/edimax/global/wireless_adapters_n150/ew-7811un/ "Edimax N150 Wi-Fi Nano USB Adapter")
 - **Arduino Uno**
   - _Cheap, has WiFi. Model: [MCU-ATmega328P WiFi-ESP8266+8Mb flash USB-TTL CH340G](https://medium.com/@oviraj71/uno-wifi-r3-atmega328p-esp8266-8mb-flash-usb-ttl-ch340g-micro-usb-d029614e803f "MCU-ATmega328P WiFi-ESP8266+8Mb flash USB-TTL CH340G")_
 - **12V DC Geared Motor** x 2
