@@ -20,7 +20,7 @@ Electronics:
 - Raspberry Pi
   - The better the pi, the better the brains (duh). What we have: [Raspberry Pi 2 Model B](https://www.raspberrypi.com/products/raspberry-pi-2-model-b/)
 - Arduino Uno
-  - Cheap, has wifi (unnecessary since Ras Pi has WiFi). Model: [MCU-ATmega328P WiFi-ESP8266+8Mb flash USB-TTL CH340G](https://medium.com/@oviraj71/uno-wifi-r3-atmega328p-esp8266-8mb-flash-usb-ttl-ch340g-micro-usb-d029614e803f)
+  - Cheap, has wifi. Model: [MCU-ATmega328P WiFi-ESP8266+8Mb flash USB-TTL CH340G](https://medium.com/@oviraj71/uno-wifi-r3-atmega328p-esp8266-8mb-flash-usb-ttl-ch340g-micro-usb-d029614e803f)
 - 12V DC Geared Motor x 2
   - Salvaged from Tetrix kit, Model: []()
 - Motor shield
