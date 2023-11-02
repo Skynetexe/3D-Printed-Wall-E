@@ -33,7 +33,7 @@ If for whatever reason the links no longer work or you find websites which are b
 - **12V DC Geared Motor** x 2
   - _Salvaged from Tetrix kit, Model: 739083 DC Drive Motor() - FIND THE MOTOR, MAY NEED TO DISASSEMBLE_
 - **Motor shield**
-  - _Bought, Model: []()_
+  - _Bought, Model: [HW-130 motor control](https://lastminuteengineers.com/l293d-motor-driver-shield-arduino-tutorial/ "HW-130 motor control")_
 - **9g Servo motor** x 9
   - _Bought, Model: []()_
 - **Servo controller**
@@ -43,7 +43,7 @@ If for whatever reason the links no longer work or you find websites which are b
 - **12V to 5V DC Buck Converter**
   - _Bought, Model: [HCW-P715](https://www.websrl.com/en/electronics/electronic-boards/12-24v-to-5v-5a-voltage-conversion-step-down-power-supply-module/ "HCW-P715")_
 - **Speakers**
-  - _Cheapest we could find, Model: [Esperanza speakers 2.0 leggiero](https://esperanza.pl/listaProduktow.php?dbFin=EP111&szukaj=Szukaj&kat=0&idz= "Esperanza speakers 2.0 leggiero")_
+  - _Cheapest we could find, Model: [Esperanza speakers 2.0 Leggiero](https://esperanza.pl/listaProduktow.php?dbFin=EP111&szukaj=Szukaj&kat=0&idz= "Esperanza speakers 2.0 Leggiero")_
 
 ### Metal
 
