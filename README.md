@@ -56,7 +56,7 @@ If for whatever reason the links no longer work or you find websites that are be
 
 ## Potential upgrades
 
-A new battery... PLEASE! The one we have is a _CHUNKY_ **HEAVY** boi, and it is only 3000mAh, and is (~undisclosed~) old
+A new battery... PLEASE! The one we have is a _CHUNKY_ **HEAVY** boi, and it is only 3000mAh, and is (~~undisclosed~~) old
 
 ## Links
 
