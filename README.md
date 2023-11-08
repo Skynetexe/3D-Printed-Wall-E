@@ -17,7 +17,7 @@ Latest [Arduino IDE](https://www.arduino.cc/en/software "arduino.cc/software")
 
 ## List of Parts
 
-Listed below are electronics metal parts and paints. I will detail them as much as possible and add links to where they can be bought or whatever other website might be more relevant. **Hovering** over the link will show you the **exact model** of the item so that you can do your own searching.
+Listed below are electronics, metal parts, and paints. I will detail them as much as possible and add links to where they can be bought or whatever other website might be more relevant. **Hovering** over the link will show you the **exact model** of the item so that you can do your own searching.
 
 > _Copying the models could prove difficult. I would recommend using OCR software or going to the README.md file and finding them in "quotation marks" after the links_.
 
@@ -32,7 +32,7 @@ If for whatever reason the links no longer work or you find websites that are be
 - **USB WiFi Module**
   - Salvaged, Model: [Edimax N150 Wi-Fi Nano USB Adapter](https://www.edimax.com/edimax/merchandise/merchandise_detail/data/edimax/global/wireless_adapters_n150/ew-7811un/ "Edimax N150 Wi-Fi Nano USB Adapter")
 - **Arduino Uno**
-  - _Cheap, has WiFi. Model: [MCU-ATmega328P WiFi-ESP8266+8Mb flash USB-TTL CH340G](https://medium.com/@oviraj71/uno-wifi-r3-atmega328p-esp8266-8mb-flash-usb-ttl-ch340g-micro-usb-d029614e803f "MCU-ATmega328P WiFi-ESP8266+8Mb flash USB-TTL CH340G")_
+  - _Cheap, and has WiFi. Model: [MCU-ATmega328P WiFi-ESP8266+8Mb flash USB-TTL CH340G](https://medium.com/@oviraj71/uno-wifi-r3-atmega328p-esp8266-8mb-flash-usb-ttl-ch340g-micro-usb-d029614e803f "MCU-ATmega328P WiFi-ESP8266+8Mb flash USB-TTL CH340G")_
 - **12V DC Geared Motor** x 2
   - _Salvaged from Tetrix kit, couldn't find exact link for model: [Tetrix DC Gear Motor 12VDC 154rpm P/N 739023](https://www.robot-advance.com/EN/art-tetrix-max-dc-motor-39530-1239.htm "Tetrix DC Gear Motor 12VDC 154rpm P/N 739023")_
 - **Motor shield**
@@ -59,15 +59,15 @@ If for whatever reason the links no longer work or you find websites that are be
 
 ## Potential upgrades
 
-A new battery... PLEASE! The one we have is a _CHUNKY_ **HEAVY** boi, and it is only 3000mAh, and is (~~undisclosed~~) old
+A new battery... PLEASE! The one we have is a _CHUNKY_ **HEAVY** boi, and it is only 3000mAh and is (~~undisclosed~~) old.
 
-Circuitry to detect how full the battery is
+Circuitry to detect how full the battery is.
 
-Camera in the eye, tracks faces of people interacting with Wall-e.
+A Camera in the eye that tracks the faces of people interacting with Wall-E.
 
-Xbox Kinect for mirroring the arms and head movement of people interacting with Wall-e.
+Xbox Kinect for mirroring the arms and head movement of people interacting with Wall-E.
 
-Longer cables for head servos, so that they can be cable managed through the neck
+Longer cables for head servos, so that they can be cable managed through the neck.
 
 ## Links
 
