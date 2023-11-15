@@ -15,6 +15,16 @@ Tap your phone on the NFC leaf and go to the website that controls the (not so) 
 Latest [Arduino IDE](https://www.arduino.cc/en/software "arduino.cc/software")
 [Raspberry Pi Imager](https://www.raspberrypi.com/software/ "raspberrypi.com/software/")
 
+## Electric Consumption:
+
+- Servos take 5v, 3amps max measured, **15W**
+- Dc takes 12v, 1amp max measured, 1.5 for safety ig. **36W**
+- Arduino takes 5v, unknown amps,
+- Motor Shield,
+- Raspberry,
+
+#### Known total: **51W**
+
 ## List of Parts
 
 Listed below are electronics, metal parts, and paints. I will detail them as much as possible and add links to where they can be bought or whatever other website might be more relevant. **Hovering** over the link will show you the **exact model** of the item so that you can do your own searching.
@@ -44,7 +54,7 @@ If for whatever reason the links no longer work or you find websites that are be
 - **12V DC Battery Pack**
   - _Salvaged from Tetrix kit, Model: [739057 12v Rechargeable Battery Pack](https://www.pitsco.com/TETRIX-12-Volt-Rechargeable-NiMH-Battery-Pack "739057 12v Rechargeable Battery Pack")_
 - **12V to 5V DC Buck Converter**
-  - _Bought, Model: [HCW-P715](https://www.websrl.com/en/electronics/electronic-boards/12-24v-to-5v-5a-voltage-conversion-step-down-power-supply-module/ "HCW-P715")_
+  - _Bought, Model: [LM2596 DC-DC](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/buck-and-boost-converters/buck-converter-step-down-dc-dc/lm2596-340v-dc-dc-buck-adjustable-converter-step-down-module-for-arduino/ "LM2596 DC-DC")_
 - **Speakers**
   - _Cheapest we could find, Model: [Esperanza speakers 2.0 Leggiero](https://esperanza.pl/listaProduktow.php?dbFin=EP111&szukaj=Szukaj&kat=0&idz= "Esperanza speakers 2.0 Leggiero")_
 

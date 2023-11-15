@@ -1,3 +1,6 @@
 {
-    "board": "arduino:avr:uno"
+    "board": "arduino:avr:uno",
+    "port": "COM10",
+    "programmer": "arduinoisp",
+    "sketch": "3D-Printed-Wall-e.ino"
 }
