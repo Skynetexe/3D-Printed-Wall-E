@@ -1,4 +1,4 @@
-# 3D-Printed-Wall-e
+# 3D-Printed-Wall-E
 
 --**This page is still in development**--
 
