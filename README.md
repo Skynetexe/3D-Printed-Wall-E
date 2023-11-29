@@ -79,6 +79,14 @@ Xbox Kinect for mirroring the arms and head movement of people interacting with 
 
 Longer cables for head servos, so that they can be cable managed through the neck.
 
+## Modifications
+
+Turned the motors controlling the eye's rotation. This allowed them to not just flop down due to a lack of tolerance.
+
+Added a screw to the neck (M2 20mm approximately), to allow removal of central head axel and future disassembly of the neck
+
+All the components written down in the "Links" section have been implemented.
+
 ## Links
 
 This project is mostly a modification of [chillibasket's project](https://wired.chillibasket.com/3d-printed-wall-e/ "wired.chillibasket.com")
